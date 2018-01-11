@@ -1,6 +1,6 @@
 # ECBM4040 Deep Learning and Neural Networks   
 
-# Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks
+### Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks
 
 Download SVHN dataset from: http://ufldl.stanford.edu/housenumbers/ format 1, or follow the instructions:
 
